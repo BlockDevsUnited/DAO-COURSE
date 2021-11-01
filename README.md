@@ -21,11 +21,11 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 * Certificates are non-transferable NFT’s
 
 ### Schedule
-November 1 - DAO Course Kickoff
-November 8 - Week 1 Assignment due, Week 2 Meetup
-November 15 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DAO
-November 22 - No assignments due, Week 4 Meetup, Collaborative DAO launch
-November 29 - Individual Projects due, Closing meetup, Individual project showcase
+* November 1 - DAO Course Kickoff
+* November 8 - Week 1 Assignment due, Week 2 Meetup
+* November 15 - Week 2 Assignment due, Week 3 Meetup, start of Collaborative DAO
+* November 22 - No assignments due, Week 4 Meetup, Collaborative DAO launch
+* November 29 - Individual Projects due, Closing meetup, Individual project showcase
 
 
 ### Tools
