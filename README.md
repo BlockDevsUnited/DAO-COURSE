@@ -61,11 +61,13 @@ Here is the course outline, week by week.
 
 #### Requirements
 * Demonstrate ability to deploy a basic DAO on snapshot
+* Manage DAO settings
 * People can work in teams due to high gas cost.
 * This week's requirement can be completed in teams
+* 
 
-### Week 2 - Creating proposals and voting
-* TBA
+### Week 2 - Deploying Governance Token
+* 
 
 #### Requirements
 * TBA
