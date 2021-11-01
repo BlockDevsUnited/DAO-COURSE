@@ -56,10 +56,13 @@ Here is the course outline, week by week.
 #### Tutorials
 
 * Follow this Tutorial - https://docs.snapshot.org/spaces/create
+* This is a no code tutorial
+* You will need an ENS domain, if you don't have one, you will have to buy one, or join a team that has one.
 
 #### Requirements
 * Demonstrate ability to deploy a basic DAO on snapshot
 * People can work in teams due to high gas cost.
+* This week's requirement can be completed in teams
 
 ### Week 2 - Creating proposals and voting
 * TBA
