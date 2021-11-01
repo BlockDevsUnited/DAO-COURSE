@@ -39,7 +39,7 @@ November 29 - Individual Projects due, Closing meetup, Individual project showca
 ### Rules
 
 * Anyone can join
-* Sign ups are closed! If you want to take the course, the next NFT course schedule will be announced soon!
+* Everyone respect each other
 
 #### Getting the Certificate
 * Must complete course work to progress to next week
