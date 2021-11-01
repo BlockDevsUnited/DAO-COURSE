@@ -61,7 +61,7 @@ Here is the course outline, week by week.
 * Demonstrate ability to deploy a basic DAO on snapshot
 * People can work in teams due to high gas cost.
 
-### Week 2 - Aragon DAO's
+### Week 2 - Creating proposals and voting
 * TBA
 
 #### Requirements
