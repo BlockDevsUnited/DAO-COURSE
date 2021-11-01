@@ -17,7 +17,7 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 * Open source
 * We will have meetups at the start of each week.
 * Tutorials and guides will be made available on our Github
-* Everyone who completes the course will be granted an “BDU NFT Developer Certificate”
+* Everyone who completes the course will be granted an “BDU DAO Developer Certificate”
 * Certificates are non-transferable NFT’s
 
 ### Schedule
