@@ -64,14 +64,30 @@ Here is the course outline, week by week.
 * Manage DAO settings
 * People can work in teams due to high gas cost.
 * This week's requirement can be completed in teams
-* 
 
 ### Week 2 - Deploying Governance Token
-* 
+The governance token is issued and transfered to members who will be allowed to participate in the DAO governance, i.e. it gives voting power.
+
+We encourage course participants to work in teams and with other DAO members to complete the requirements.
+
+#### Tutorials
+
+1. Start with issueing a governance token
+* [Issue an ERC-20 token with Remix and Metamask](https://github.com/BlockDevsUnited/TokenTutorial)
+
+2. Mint and trasfer tokens to members who would participate in the governance. We encourage course participants to transfer tokens to each other and vote on each other proposals.
+
+3. Add the token address and symbol to a strategy in your DAO to use is as a governance token
+* For exampple, it can be added to The erc20-balance-of strategy setting following [Snapshot strategy documentation](https://docs.snapshot.org/strategies/what-is-a-strategy)
+
+4. Create a proposal and let the token owners know that they can vote following (Snapshot Proposal documentation)[https://docs.snapshot.org/proposals]
+
+NOTE: "Only the community members who hold relevant amounts of tokens at the time of the creation of the Snapshot block number would be able to vote on the proposal." and review [Add a Snapshot block number](https://docs.snapshot.org/proposals/create)
+section for details.
 
 #### Requirements
-* TBA
-
+* Post the URL to your governance token on Discord
+* Post the URL to one proposal that uses the governance token
 
 ### Week 3 - Collaborative DAO
 
@@ -83,7 +99,6 @@ Here is the course outline, week by week.
 During week 4 you must deploy a real life DAO project, as an individual or a group
 
 #### Requirements
-* TBA
+* Share URL to your real life DAO
+* Create a proposal and vote
 
-
-#### links
