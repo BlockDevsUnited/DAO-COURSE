@@ -83,7 +83,7 @@ We encourage course participants to work in teams and with other DAO members to 
 3. Add the token address and symbol to a strategy in your DAO to use it as a governance token
   - For exampple, it can be added to The erc20-balance-of strategy setting following [Snapshot strategy documentation](https://docs.snapshot.org/strategies/what-is-a-strategy)
 
-4. Create a proposal and let the token owners know that they can vote following (Snapshot Proposal documentation)[https://docs.snapshot.org/proposals]
+4. Create a proposal and let the token owners know that they can vote following [Snapshot Proposal documentation](https://docs.snapshot.org/proposals)
 
 NOTE: "Only the community members who hold relevant amounts of tokens at the time of the creation of the Snapshot block number would be able to vote on the proposal." and review [Add a Snapshot block number](https://docs.snapshot.org/proposals/create)
 section for details.
