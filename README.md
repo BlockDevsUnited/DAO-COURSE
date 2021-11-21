@@ -76,12 +76,12 @@ We encourage course participants to work in teams and with other DAO members to 
 #### Tutorials
 
 1. Start with issueing a governance token
-* [Issue an ERC-20 token with Remix and Metamask](https://github.com/BlockDevsUnited/TokenTutorial)
+  - [Issue an ERC-20 token with Remix and Metamask](https://github.com/BlockDevsUnited/TokenTutorial)
 
 2. Mint and trasfer tokens to members who would participate in the governance. We encourage course participants to transfer tokens to each other and vote on each other proposals.
 
-3. Add the token address and symbol to a strategy in your DAO to use is as a governance token
-* For exampple, it can be added to The erc20-balance-of strategy setting following [Snapshot strategy documentation](https://docs.snapshot.org/strategies/what-is-a-strategy)
+3. Add the token address and symbol to a strategy in your DAO to use it as a governance token
+  - For exampple, it can be added to The erc20-balance-of strategy setting following [Snapshot strategy documentation](https://docs.snapshot.org/strategies/what-is-a-strategy)
 
 4. Create a proposal and let the token owners know that they can vote following (Snapshot Proposal documentation)[https://docs.snapshot.org/proposals]
 
