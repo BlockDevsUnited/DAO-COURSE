@@ -55,9 +55,12 @@ Here is the course outline, week by week.
 
 #### Tutorials
 
-* Follow this Tutorial - https://docs.snapshot.org/spaces/create
+* Follow this Snapshot Tutorial - https://docs.snapshot.org/spaces/create
 * This is a no code tutorial
-* You will need an ENS domain, if you don't have one, you will have to buy one, or join a team that has one.
+* You will need an ENS domain, if you don't have one, there are a few options:
+** buy ENS domain
+** join a team that already have an ENS domain
+** ask at [Snapshot Discord](https://docs.snapshot.org/guides/contribute) if they can add you to one of their test domains
 
 #### Requirements
 * Demonstrate ability to deploy a basic DAO on snapshot
